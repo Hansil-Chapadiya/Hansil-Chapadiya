@@ -63,11 +63,10 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hansil-chapadiya&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Languages by Hansil Chapadiya" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hansil-chapadiya&show_icons=true&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats of Hansil Chapadiya" />
 </p>
