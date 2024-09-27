@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chapadiyahansil@gmail.com**
 
-- 📄 Know about my experiences. [(https://port-folio-front-end-five.vercel.app/)](https://port-folio-front-end-five.vercel.app/#Projects)
+- 📄 Know about my experiences. [https://port-folio-front-end-five.vercel.app/](https://port-folio-front-end-five.vercel.app/#Projects)
 
 - ⚡ Fun fact **I think I am Chess, Universe, Astronomy Lover**
 
