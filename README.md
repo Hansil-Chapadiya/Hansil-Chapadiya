@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+Hansil+Chapadiya;Full-Stack+Developer+%7C+AI+Enthusiast;Happy+to+see+you+here!" alt="Typing SVG" />
-</p>
+</h1>
 
 
 
