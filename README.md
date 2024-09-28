@@ -71,14 +71,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hansil-chapadiya&show_icons=true&theme=radical&include_all_commits=true&height=400" alt="GitHub Stats" width="400" height="200"/>
-  
+  <!-- GitHub Stats with custom colors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hansil-chapadiya&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="GitHub Stats" width="400" height="200"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansil-chapadiya&theme=radical&height=400" alt="GitHub Streak Stats" width="400" height="200" />
+  <!-- GitHub Streak Stats with matching colors -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansil-chapadiya&theme=black-ice&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&currStreakNum=00FFFF" alt="GitHub Streak Stats" width="400" height="200"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansil-chapadiya&langs_count=8&layout=compact&theme=radical" alt="Top Languages" width="600" height="200"/>
+  <!-- Top Languages with custom colors -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansil-chapadiya&langs_count=8&layout=compact&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="Top Languages" width="600" height="200"/>
 </p>
 
 ---
@@ -96,7 +100,7 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hansil-chapadiya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile View Counter" />
+  <img src="https://komarev.com/ghpvc/?username=hansil-chapadiya&label=👁️ProfileViews&color=000000&style=for-the-badge" alt="Profile View Counter" />
 </p>
+
