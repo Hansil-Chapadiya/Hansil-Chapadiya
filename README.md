@@ -1,10 +1,3 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+Hansil+Chapadiya;Full-Stack+Developer+%7C+AI+Enthusiast;Happy+to+see+you+here!" alt="Typing SVG" />
-</h1>
-
-
-
 <h1 align="center">Hey there, I'm Hansil S. Chapadiya</h1>
 <h3 align="center">A passionate full stack developer from Gujarat, India</h3>
 
@@ -78,12 +71,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hansil-chapadiya&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansil-chapadiya&theme=radical" alt="GitHub Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hansil-chapadiya&show_icons=true&theme=radical&include_all_commits=true&height=400" alt="GitHub Stats" width="400" height="200"/>
+  
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansil-chapadiya&langs_count=8&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansil-chapadiya&theme=radical&height=400" alt="GitHub Streak Stats" width="400" height="200" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansil-chapadiya&langs_count=8&layout=compact&theme=radical" alt="Top Languages" width="600" height="200"/>
 </p>
 
 ---
