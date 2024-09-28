@@ -1,3 +1,10 @@
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+Hansil+Chapadiya;Full-Stack+Developer+%7C+AI+Enthusiast;Happy+to+see+you+here!" alt="Typing SVG" />
+</p>
+
+
+
 <h1 align="center">Hey there, I'm Hansil S. Chapadiya</h1>
 <h3 align="center">A passionate full stack developer from Gujarat, India</h3>
 
@@ -26,12 +33,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hansil-chapadiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -62,10 +64,44 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hansil-chapadiya/">
+    <img src="https://img.shields.io/badge/-Hansil%20Chapadiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hansil-chapadiya/" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/hansil-chapadiya">
+    <img src="https://img.shields.io/github/followers/hansil-chapadiya?label=Followers&style=flat-square" alt="GitHub Followers">
+  </a>
+  <a href="mailto:chapadiyahansil@gmail.com">
+    <img src="https://img.shields.io/badge/-chapadiyahansil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chapadiyahansil@gmail.com" alt="Email">
+  </a>
+</p>
+
 ### 📊 GitHub Stats
-<p><img style="" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansil-chapadiya&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="hansil-chapadiya" height="180"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hansil-chapadiya&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansil-chapadiya&theme=radical" alt="GitHub Streak Stats" width="400"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansil-chapadiya&langs_count=8&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
 
-<p align="left" width="500">
-  <img src="https://github-readme-stats.vercel.app/api?username=hansil-chapadiya&show_icons=true&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats of Hansil Chapadiya"  height="180" />
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/hansil-chapadiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/hansil-chapadiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:chapadiyahansil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail">
+  </a>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hansil-chapadiya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile View Counter" />
 </p>
