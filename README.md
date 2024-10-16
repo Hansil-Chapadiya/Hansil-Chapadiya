@@ -82,7 +82,7 @@
 
 <p align="center">
   <!-- Top Languages with custom colors -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansil-chapadiya&langs_count=6&layout=compact&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="Top Languages" width="600" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansil-chapadiya&langs_count=8&layout=compact&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="Top Languages" width="600" height="200"/>
 </p>
 
 ---
