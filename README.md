@@ -4,13 +4,13 @@
 ---
 
 ### 🔭 Currently Working On
-- [My Portfolio](https://port-folio-front-end-five.vercel.app/)
+- [My Portfolio](https://hansil-place.vercel.app/)
 
 ### 🌱 Currently Learning
 - **Data Science and AI/ML**
 
 ### 👨‍💻 All My Projects
-- [Check them out here](https://port-folio-front-end-five.vercel.app/)
+- [Check them out here](https://hansil-place.vercel.app/)
 
 ### 💬 Ask Me About
 - **Python and its web frameworks, C++, JS, Java, PHP**
@@ -19,7 +19,7 @@
 - **Email**: [chapadiyahansil@gmail.com](mailto:chapadiyahansil@gmail.com)
 
 ### 📄 My Experiences
-- [Projects Overview](https://port-folio-front-end-five.vercel.app/#Projects)
+- [Projects Overview](https://hansil-place.vercel.app/#Projects)
 
 ### ⚡ Fun Fact
 - I think I am a **Chess, Universe, and Astronomy Lover**
